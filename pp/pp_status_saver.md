@@ -1,8 +1,6 @@
-<!DOCTYPE html>
-<html>
-<head>
-    <title>Privacy Policy</title>
-</head>
+###
+Privacy Policy
+
 <body>
 <h1>Privacy Policy</h1>
 <p>Last updated: September 26, 2023</p>
